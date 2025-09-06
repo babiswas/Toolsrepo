@@ -1,2 +1,4 @@
 tmux new -s session-name
 cntrl + B followed by D
+tmux attach -t session_name
+tmux ls
